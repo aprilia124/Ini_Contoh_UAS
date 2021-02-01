@@ -34,7 +34,7 @@ int main()
    cout << "\nAray 1 + Array 2\n";
    for (a=0; a<2; a++)
    {
-       array3[a] = array1[a]+array2[a];
+       array3[a] = array1[a]+array2[a]
        cout << array3[a] << "\n";
    }
 
